@@ -1,0 +1,8 @@
+[0721/122505:FATAL:v8_initializer.cc(175)] Failed to open V8 file 'C:\C2\build\nwjs\win64\natives_blob.bin' (reason: -4)
+[0721/122505:ERROR:process_info.cc(608)] range at 0x2272208200000000, size 0x171 fully unreadable
+[0721/122505:ERROR:process_info.cc(608)] range at 0x227220a200000000, size 0x171 fully unreadable
+[0721/122505:ERROR:process_info.cc(608)] range at 0x0, size 0x171 fully unreadable
+[0721/122505:WARNING:in_range_cast.h(38)] value 1585421009776 out of range
+[0721/122505:WARNING:in_range_cast.h(38)] value 1585421007328 out of range
+[0721/122505:WARNING:in_range_cast.h(38)] value 1585421009816 out of range
+[0721/122505:WARNING:in_range_cast.h(38)] value 108084205055182070 out of range
